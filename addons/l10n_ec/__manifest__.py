@@ -38,7 +38,7 @@ Authors:
     Ing. José Miguel Rivero <jose.rivero@trescloud.com>
     ''',
     'author': 'OPA CONSULTING & TRESCLOUD',
-    'category': 'Localization',
+    'category': 'Accounting/Localizations/Account Charts',
     'maintainer': 'OPA CONSULTING',
     'website': 'https://opa-consulting.com',
     'license': 'OEEL-1',
